@@ -1,0 +1,22 @@
+
+____________________________________________________________________________________________________
+
+>   Welcome to the AI Tic-Tac-Toe
+>   Powered by Minimax Algorithm
+____________________________________________________________________________________________________
+
+>   Rules :
+
+        1)  The User starts the game and plays first
+
+        2)  User is assigned 'O', AI plays as 'X'
+
+        3)  To make your move, place [1-9] at any grid box
+
+        4)  Grid boxes being in a horizantal + downward order fashion
+
+        5)  '1' corresponding baord[0][0], '9' being board[2][2] and others being in similar manner
+
+____________________________________________________________________________________________________
+
+Thanks! enjoy.
